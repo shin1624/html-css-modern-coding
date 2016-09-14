@@ -203,6 +203,13 @@ body {
 .skill-box {
   display: table-cell;
 }
+.fa {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    transform: translate(0px, 0px);
+    font: normal normal normal normal normal normal 1 FontAwesome;
+}
 .skill-icon {
   width: 150px;
   height: 150px;
